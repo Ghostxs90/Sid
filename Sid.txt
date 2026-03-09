@@ -1,3 +1,3 @@
-Username : Ghost
+Username :  1
 Pass     :  1
 Sid      :  S-1-5-21-2326286892-3480443424-2432195469-500
